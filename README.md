@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
-<hr>
 
 <h1 align="center">Hi 👋, I'm Harsh Kapasia</h1>
 <h3 align="center">"Driven CSE student passionate about coding and creating impactful software solutions."</h3>
