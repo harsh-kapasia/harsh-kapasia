@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Harsh Kapasia</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kapasia</h1>
 <h3 align="center">"Driven CSE student passionate about coding and creating impactful software solutions."</h3>
 
 
